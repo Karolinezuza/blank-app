@@ -11,7 +11,7 @@ import {
 export default function App() {
   return (
     <View style={styles.container}>
-      <Image source={require('./assets/avião.png')} style={styles.image} />
+      <Image source={require('./assets/aviao.png')} style={styles.image} />
 
       <View style={styles.header}>
         <Text style={styles.logo}>Explorar Tour</Text>
